@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqtnadahpmo0y"]
+
+[ext_resource type="Texture2D" uid="uid://mx4ryfllnhy0" path="res://Tiles/Grass.png" id="1_cm6wn"]
+
+[node name="Grass" type="Sprite2D"]
+position = Vector2(768, 0)
+texture = ExtResource("1_cm6wn")
